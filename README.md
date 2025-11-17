@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **Hand Gesture Recognition Based Interactive Gaming**
 
-- 🌱 I'm currently learning **Python **
-
 - 👯 I'm looking to collaborate on **Open Source Porjects**
 
 <h3 align="left">Languages and Tools:</h3>
